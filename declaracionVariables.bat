@@ -2,7 +2,7 @@ REM Modificamos la Salida del echo
 @ECHO OFF
 
 REM -------------------------------------
-REM Declarando Variables
+REM         Declarando Variables
 REM -------------------------------------
 
 REM Antes que nada Limpiamos Pantalla
